@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Practica Sonidos</string>
+    <string name="animales_salvajes">Animales Salvajes</string>
+    <string name="naturaleza">Naturaleza</string>
+    <string name="animales_caseros">Animales Caseros</string>
+    <string name="titulo_de_de_la_categoria">Titulo de de la categoria</string>
+</resources>
